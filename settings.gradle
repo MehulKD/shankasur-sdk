@@ -1,2 +1,2 @@
-include ':app', ':shankasursdk'
+include ':app', ':shankasursdk', ':ecommerce'
 rootProject.name='Shankasur Lib'
